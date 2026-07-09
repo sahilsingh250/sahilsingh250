@@ -1,3 +1,22 @@
+# 💫 Hi 👋, I'm Sahil Kumar
+*A passionate Data Science  Engineer || Data Analyst || Bihar from India*
+
+Email Me 👉 ✉️ *sahilkumar61703@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 *I’m currently working on:* Resumint.co.in
+- 🌱 *I’m currently learning:* DSA In Java
+- 👯 *I’m looking to collaborate on:* Enter your Resumint and its a resume and cv builder website.
+- 🤔 *I’m looking for help with:* Resumint.co.in
+- 💬 *Ask me about:* Collaboration, Tech Support
+- 📫 *How to reach me:* sahilkumar61703@gmail.com
+- 😄 *Pronouns:* vibe_coder
+- ⚡ *Fun fact:* I Love Tech and Tech Love Me
+- 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jod_sahil31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-kumar-226a37397/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sahilkumar-r1b5r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilkumar61703@gmail.com) 
