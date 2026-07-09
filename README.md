@@ -5,7 +5,7 @@ Email Me 👉 ✉️ *sahilkumar61703@gmail.com* For Collaboration/Project or An
 
 - 🔭 *I’m currently working on:* Resumint.co.in
 - 🌱 *I’m currently learning:* DSA In Java
-- 👯 *I’m looking to collaborate on:* Enter your Resumint and its a resume and cv builder website.
+- 👯 *I’m looking to collaborate on: Weather API Fetcher * .
 - 🤔 *I’m looking for help with:* Resumint.co.in
 - 💬 *Ask me about:* Collaboration, Tech Support
 - 📫 *How to reach me:* sahilkumar61703@gmail.com
